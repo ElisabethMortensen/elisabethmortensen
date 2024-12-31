@@ -3,7 +3,7 @@
 I'm Elisabeth, a dedicated Analyst/Data Scientist based in New York City. My passion lies in the secret simplicity of numbers and their profound ability to unlock insights about our world. As an analytical thinker, I relish the opportunity to work with large amounts of data, embracing the complexities and challenges inherent in the field of mathematics. Or, in other words, you give me a bucket of data, and I return a Jupyter notebook full of insights!
 
 - 👩🏻‍💼 [Ping me for oppurtunities (LinkedIn)](https://www.linkedin.com/in/elisabethmortensen/)
-- 📫 [Or shoot me an email (elisabeth@glavindmortensen.com](elisabeth@glavindmortensen.com)
+- 📫 [Or shoot me an email (elisabeth@glavindmortensen.com)](elisabeth@glavindmortensen.com)
 
 <!--
 **ElisabethMortensen/elisabethmortensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
